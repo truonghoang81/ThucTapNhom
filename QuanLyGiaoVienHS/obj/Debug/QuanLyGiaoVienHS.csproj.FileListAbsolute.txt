@@ -1,0 +1,38 @@
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\bin\Debug\QuanLyGiaoVienHS.exe.config
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\bin\Debug\QuanLyGiaoVienHS.exe
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\bin\Debug\QuanLyGiaoVienHS.pdb
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DangNhap.resources
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Form1.resources
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.GiaoVien.resources
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.HocSinh.resources
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Properties.Resources.resources
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.QuenMatKhau.resources
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Đổi_Mật_Khẩu.resources
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.csproj.GenerateResource.Cache
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.exe.licenses
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.exe
+c:\users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.pdb
+C:\Users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DuLieuChung.resources
+C:\Users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DuLieuRieng.resources
+C:\Users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.csprojResolveAssemblyReference.cache
+C:\Users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.TongHop.resources
+C:\Users\tranhuyentrang\documents\visual studio 2013\Projects\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.HuongDan.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\bin\Debug\QuanLyGiaoVienHS.exe.config
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.exe
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.pdb
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\bin\Debug\QuanLyGiaoVienHS.exe
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\bin\Debug\QuanLyGiaoVienHS.pdb
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.csprojResolveAssemblyReference.cache
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DangNhap.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DuLieuChung.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DuLieuRieng.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Form1.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.GiaoVien.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.HocSinh.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.HuongDan.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Properties.Resources.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.QuenMatKhau.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Đổi_Mật_Khẩu.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.TongHop.resources
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.csproj.GenerateResource.Cache
+D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.exe.licenses
