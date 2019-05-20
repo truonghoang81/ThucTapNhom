@@ -36,3 +36,19 @@ D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Đổi
 D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.TongHop.resources
 D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.csproj.GenerateResource.Cache
 D:\Kì 6\TTN\QuanLyGiaoVienHS\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.exe.licenses
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.csprojAssemblyReference.cache
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DangNhap.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DuLieuChung.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.DuLieuRieng.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Form1.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.GiaoVien.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.HocSinh.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.HuongDan.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Properties.Resources.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.QuenMatKhau.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.Đổi_Mật_Khẩu.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.TongHop.resources
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.csproj.GenerateResource.cache
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.exe.licenses
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.exe
+C:\Users\xuann\Documents\ThucTapNhom\QuanLyGiaoVienHS\obj\Debug\QuanLyGiaoVienHS.pdb

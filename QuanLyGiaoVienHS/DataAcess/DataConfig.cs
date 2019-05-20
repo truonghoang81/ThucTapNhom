@@ -12,7 +12,7 @@ namespace QuanLyGiaoVienHS.DataAcess
     class DataConfig
     {
          private SqlConnection conn;
-        public string strConnec = @"Data Source=DESKTOP-EMGBPQF\SQLEXPRESS;Initial Catalog=QuanLyGVHS;Integrated Security=True";
+        public string strConnec = @"Data Source=DESKTOP-B0FB2OS\SQLEXPRESS;Initial Catalog=QuanLyGVHS;Integrated Security=True";
 
         public DataConfig()
         {
